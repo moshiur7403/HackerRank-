@@ -10,3 +10,5 @@ public class Solution {
         }
         
         scan.close();
+        
+         // Prints each sequential element in array a
