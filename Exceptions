@@ -1,6 +1,9 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
-//Author:MMR 
+
+//Authors:RIF
+
+
 public class Solution {
 
 public static void main(String[] args) {
