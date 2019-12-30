@@ -1,5 +1,7 @@
 import java.util.*;
 
+
+// Author : MMR : 7403
 public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -9,6 +11,8 @@ public class Solution {
             a[i] = scan.nextInt();
         }
         
+
+
         scan.close();
         
          // Prints each sequential element in array a
